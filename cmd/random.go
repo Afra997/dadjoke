@@ -1,5 +1,6 @@
 /*
 Copyright © 2026 NAME HERE <EMAIL ADDRESS>
+to run this project install go and cobra cli and run: go run main.go random 
 */
 package cmd
 
